@@ -25,6 +25,9 @@ Dishboard is a **fun and interactive web app** where food enthusiasts can **shar
 
 ## 📁 Folder Structure
 
+
+
+
 Dishboard/
 ├─ public/
 │ ├─ index.html # Login & Signup page
@@ -33,6 +36,7 @@ Dishboard/
 │ ├─ styles_home.css # Home page styles
 │ └─ script.js # Frontend logic for home.html
 └─ server.js # Node.js backend
+
 
 
 ---
@@ -57,5 +61,4 @@ node server.js
 Open your browser at: http://localhost:3000
 
 
-Made with ❤️ by Sruthi Raghavan
-ecipes are stored in-memory. Refreshing t
+
