@@ -38,25 +38,21 @@ Dishboard/
 └─ server.js # Node.js backend
 
 
+---
+
 
 ---
 
 ## ⚡ How to Run Locally
 
-1. Clone the repo:  
-```bash
-git clone https://github.com/YOUR_USERNAME/Dishboard.git
+1. **Clone the repository**  
+   git clone https://github.com/<your-username>/Dishboard.git
+   cd Dishboard
+2. **Install dependencies**
+   npm install express nodemailer
+3. **Start the server**
+   node server.js
+4. **Open the browser**
+   Go to http://localhost:3000  to see the app.
 
-
-2. Install dependencies:
-
-npm install express nodemailer
-
-
-3. Run the server:
-
-node server.js
-Open your browser at: http://localhost:3000
-
-
-
+---
