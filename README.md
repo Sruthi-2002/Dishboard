@@ -48,16 +48,14 @@ Dishboard/
 git clone https://github.com/YOUR_USERNAME/Dishboard.git
 
 
-Install dependencies:
+2. Install dependencies:
 
 npm install express nodemailer
 
 
-Run the server:
+3. Run the server:
 
 node server.js
-
-
 Open your browser at: http://localhost:3000
 
 
