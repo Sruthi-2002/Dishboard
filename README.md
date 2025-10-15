@@ -23,25 +23,6 @@ Dishboard is a **fun and interactive web app** where food enthusiasts can **shar
 
 ---
 
-## 📁 Folder Structure
-
-
-
-
-Dishboard/
-├─ public/
-│ ├─ index.html # Login & Signup page
-│ ├─ home.html # Main feed & post page
-│ ├─ styles_login.css # Login & Signup styles
-│ ├─ styles_home.css # Home page styles
-│ └─ script.js # Frontend logic for home.html
-└─ server.js # Node.js backend
-
-
----
-
-
----
 
 ## ⚡ How to Run Locally
 
